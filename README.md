@@ -1,50 +1,40 @@
-<h1 align="center">Hi 👋, I'm HiếuK</h1>
-<h3 align="center">Vietnamese Developer!</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hieukvn&label=Profile%20views&color=0e75b6&style=flat"
-        alt="hieukvn" /> </p>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on **NinoBotVN**
+- 🏫 &nbsp; A pupil is attending Huong Tra High School.
+- 💬 &nbsp; Ask me anything about discord bots.
+- 🌱 &nbsp; Currently learning **Javascript / Nodejs**.
 
-- 🌱 I’m currently learning **Javascript / Nodejs**
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💬 Ask me about **Discord Bot**
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
+  ![After Effects](https://img.shields.io/badge/-After%20Effects-333333?style=for-the-badge&logo=Adobe%20After%20Effects)
+  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-333333?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
 
-- 📫 How to reach me **hieutrankiemcong@gmail.com**
+<h3> 📈 &nbsp;My Stats</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<a href="https://fb.com/hieuk.editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hieuk.editor" height="30" width="40" /></a>
-<a href="https://instagram.com/hieuk.editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hieuk.editor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hiếukofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiếukofficial" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-    <img
-        src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HieuKVN&theme=buefy&show_icons=true" />
 
-<h3 align="left">GitHub Stats:</h3>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HieuKVN&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hieukvn&theme=react"
-        alt="hieukvn" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hieukvn&theme=react" alt="hieukvn" /></p>
+<br/>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieukvn&theme=react"
-        alt="hieukvn" /></p>
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=HieuKVN&theme=dark)
+
+</div>
