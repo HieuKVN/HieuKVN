@@ -11,7 +11,7 @@
 <h3>📈 My Stats</h3>
 <p>
   <a href="/"  align="left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=ayaka-chann&theme=dark&hide_border=true"/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=HieuKVN&theme=dark&hide_border=true"/>
   </a>
 </p>
 <div align="center">
